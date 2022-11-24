@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1988d0fb.css",
+    "main.js": "/static/js/main.8f7af427.js",
+    "static/js/787.5b3d9510.chunk.js": "/static/js/787.5b3d9510.chunk.js",
+    "static/media/BirthOfVenus.png": "/static/media/BirthOfVenus.cbd193bc38cd192c445c.png",
+    "static/media/LastSupper.png": "/static/media/LastSupper.72abfa34f780e7684d47.png",
+    "static/media/TheCreationOfAdam.png": "/static/media/TheCreationOfAdam.bcf3751306cf14ec2c2c.png",
+    "static/media/AnatomyLesson.png": "/static/media/AnatomyLesson.c835d7b0ac4ec4bbccae.png",
+    "static/media/Group.svg": "/static/media/Group.66587077fc1169ddd4522c88f2741dea.svg",
+    "static/media/Logo.svg": "/static/media/Logo.0341a944e03944b181eff2c81546119d.svg",
+    "static/media/Phone.svg": "/static/media/Phone.806d72c6ec9d53637bba0aab2773f27b.svg",
+    "static/media/Cart.svg": "/static/media/Cart.b8a8f9fed0e6664ed9d31d20d8c5ee73.svg",
+    "index.html": "/index.html",
+    "static/media/adress.svg": "/static/media/adress.3dea7babf7858ec4c9bedfd38dffd29a.svg",
+    "main.1988d0fb.css.map": "/static/css/main.1988d0fb.css.map",
+    "main.8f7af427.js.map": "/static/js/main.8f7af427.js.map",
+    "787.5b3d9510.chunk.js.map": "/static/js/787.5b3d9510.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1988d0fb.css",
+    "static/js/main.8f7af427.js"
+  ]
+}
